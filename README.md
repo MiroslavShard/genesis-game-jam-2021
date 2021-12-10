@@ -9,11 +9,11 @@ Theme: Soon...
 ## Screenshots
 • haha, soon...
 
-## Try it now
-• Soon...
-
 ## How to play
 • Actually idk
+
+## Try it now
+• Soon...
 
 ## Built with
 • Unity Engine 2020.3.24f1
