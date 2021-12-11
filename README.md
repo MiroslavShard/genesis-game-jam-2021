@@ -1,7 +1,7 @@
 # Still unnamed project
 > Genesis Game Jam 2.0
 
-Theme: Soon...
+<b>Theme:</b> Matrix
 
 ## Idea
 • Soon...
