@@ -966,6 +966,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1061774218}
   - component: {fileID: 1061774219}
+  - component: {fileID: 1061774220}
   m_Layer: 0
   m_Name: Subtitles Controller
   m_TagString: Untagged
@@ -1001,61 +1002,173 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   subtitles:
   - m_text: "\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439, \u041D\u0435\u043E!"
-    m_duration: 2
+    m_duration: 1.5
+    m_clip: {fileID: 8300000, guid: b7ea07e264822a84491b1ab38875fd6f, type: 3}
   - m_text: "\u0412\u0441\u044F \u0438\u0433\u0440\u043E\u0432\u0430\u044F \u0438\u043D\u0434\u0443\u0441\u0442\u0440\u0438\u044F
       \u0432 \u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u0438 \u0438 \u043C\u043D\u0435
       \u043D\u0443\u0436\u043D\u0430 \u0442\u0432\u043E\u044F \u043F\u043E\u043C\u043E\u0449\u044C!"
     m_duration: 4
+    m_clip: {fileID: 8300000, guid: c23573f87ff390c47b151f9ddc1ee52e, type: 3}
   - m_text: "\u0410\u0433\u0435\u043D\u0442 \u0421\u043C\u0438\u0442 \u0440\u0435\u0448\u0438\u043B
       \u0437\u0430\u043F\u0443\u0441\u0442\u0438\u0442\u044C \u0433\u043B\u043E\u0431\u0430\u043B\u044C\u043D\u044B\u0439
       \u0432\u0438\u0440\u0443\u0441 \u0438 \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E
       \u0443\u043D\u0438\u0447\u0442\u043E\u0436\u0438\u0442\u044C \u0432\u0441\u0435
       \u0438\u0433\u0440\u044B."
-    m_duration: 4
+    m_duration: 5
+    m_clip: {fileID: 8300000, guid: 31630c10f371ee54bbc0739056d75099, type: 3}
   - m_text: "\u0422\u0432\u043E\u044F \u0446\u0435\u043B\u044C - \u043F\u043E\u043F\u0430\u0441\u0442\u044C
       \u0432 \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0445
       \u0438\u0433\u0440 \u0438 \u0443\u043D\u0438\u0447\u0442\u043E\u0436\u0438\u0442\u044C
       \u044D\u0442\u0438 \u0432\u0438\u0440\u0443\u0441\u044B."
-    m_duration: 4
+    m_duration: 5
+    m_clip: {fileID: 8300000, guid: 02b38ac99e13d1347a335617b7aa3b63, type: 3}
   - m_text: "\u041F\u0435\u0440\u0435\u0434 \u0442\u043E\u0431\u043E\u0439 \u0434\u0432\u0435
       \u0442\u0430\u0431\u043B\u0435\u0442\u043A\u0438..."
-    m_duration: 3
+    m_duration: 2
+    m_clip: {fileID: 8300000, guid: 19df2bf2540b8cb43b1e91a2b673f1e6, type: 3}
   - m_text: "C\u0438\u043D\u044F\u044F \u0432\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0431\u044F
       \u0434\u043E\u043C\u043E\u0439..."
     m_duration: 3
+    m_clip: {fileID: 8300000, guid: 2abb00fb18a4f4640bbfb50d4279d321, type: 3}
   - m_text: "\u041A\u0440\u0430\u0441\u043D\u0430\u044F \u0437\u0430\u043F\u0443\u0441\u0442\u0438\u0442
       \u0432\u0435\u0441\u044C \u043F\u0440\u043E\u0446\u0435\u0441\u0441..."
     m_duration: 3
+    m_clip: {fileID: 8300000, guid: d1cf013717685834690a7f883f03c518, type: 3}
   - m_text: "\u0412\u044B\u0431\u0438\u0440\u0430\u0439!"
     m_duration: 2
+    m_clip: {fileID: 8300000, guid: 7843efc5e9ab8f646b71d974d5b909d6, type: 3}
   - m_text: "\u0422\u044B \u0434\u0443\u043C\u0430\u043B \u0432\u0441\u0435 \u0431\u0443\u0434\u0435\u0442
       \u0442\u0430\u043A \u043B\u0435\u0433\u043A\u043E?"
-    m_duration: 3
+    m_duration: 2
+    m_clip: {fileID: 8300000, guid: 2108ea0e3a8ac7e4ea742e8a9f12640c, type: 3}
   - m_text: "\u042D\u0442\u043E \u043D\u0435\u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u044B\u0439
       \u0432\u044B\u0431\u043E\u0440!"
     m_duration: 2
+    m_clip: {fileID: 8300000, guid: 359dfd6ab3795b34b87f2773919d4ec3, type: 3}
   - m_text: "\u0412\u044B\u0431\u0438\u0440\u0430\u0439 \u0434\u0440\u0443\u0433\u0443\u044E..."
     m_duration: 2
+    m_clip: {fileID: 8300000, guid: 1420359eec245a04388577a13ec9a2fa, type: 3}
   - m_text: "\u041E\u0442\u043B\u0438\u0447\u043D\u043E!"
-    m_duration: 2
+    m_duration: 1.5
+    m_clip: {fileID: 8300000, guid: 50d286d05a2e84349be2c1f2d0079002, type: 3}
   - m_text: "\u042F \u0442\u0435\u0431\u0435 \u0432\u044B\u0434\u0430\u043C \u043E\u0440\u0443\u0436\u0438\u0435,
       \u043D\u043E \u0431\u0443\u0434\u044C \u043E\u0441\u0442\u043E\u0440\u043E\u0436\u0435\u043D,
       \u0443 \u0431\u0430\u0433\u043E\u0432 \u0442\u043E\u0436\u0435 \u0435\u0441\u0442\u044C
       \u043F\u0443\u0448\u043A\u0438."
-    m_duration: 4
+    m_duration: 4.5
+    m_clip: {fileID: 8300000, guid: 0d355a0911c1c1449a7653c3c7f07eba, type: 3}
   - m_text: "\u0423 \u0442\u0435\u0431\u044F \u0435\u0441\u0442\u044C \u0442\u0430\u0439\u043C\u0435\u0440,
       \u043F\u043E \u0438\u0441\u0442\u0435\u0447\u0435\u043D\u0438\u044E \u043A\u043E\u0442\u043E\u0440\u043E\u0433\u043E
       \u043C\u044B \u0432\u0441\u0435 \u043F\u0440\u043E\u0438\u0433\u0440\u0430\u0435\u043C,
       \u0442\u0430\u043A \u0447\u0442\u043E \u043F\u043E\u0441\u043F\u0435\u0448\u0438!"
-    m_duration: 6
+    m_duration: 4.5
+    m_clip: {fileID: 8300000, guid: 0f4f3b1123c135c4d8215876f646e95f, type: 3}
   - m_text: "\u0422\u0430\u043A\u0436\u0435, \u0435\u0441\u043B\u0438 \u043E\u043D\u0438
       \u043F\u043E\u043F\u0430\u0434\u0430\u044E\u0442 \u0432 \u0442\u0435\u0431\u044F,
       \u0442\u043E \u0432\u0440\u0435\u043C\u044F \u043E\u0442\u043D\u0438\u043C\u0430\u0435\u0442\u0441\u044F,
       \u0431\u0443\u0434\u044C \u043D\u0430 \u0447\u0435\u043A\u0443."
-    m_duration: 6
+    m_duration: 5
+    m_clip: {fileID: 8300000, guid: 725a3b3fdeec87447929b2efe6b342db, type: 3}
   - m_text: "\u0423\u0434\u0430\u0447\u0438..."
-    m_duration: 3
+    m_duration: 2
+    m_clip: {fileID: 8300000, guid: 4f0446542dedea141b1004d780cd7496, type: 3}
   m_text: {fileID: 432838267}
+--- !u!82 &1061774220
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1061774217}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 0.75
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1092088442
 GameObject:
   m_ObjectHideFlags: 0

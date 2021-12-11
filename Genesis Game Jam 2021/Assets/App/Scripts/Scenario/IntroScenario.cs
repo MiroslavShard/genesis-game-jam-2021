@@ -12,7 +12,7 @@ public class IntroScenario : MonoBehaviour
     private IEnumerator PlayScenario1()
     {
         GameObject.Find("Player").GetComponent<CMF.AdvancedWalkerController>().enabled = false;
-        yield return new WaitForSeconds(25f);
+        yield return new WaitForSeconds(24f);
         GameObject.Find("Player").GetComponent<CMF.AdvancedWalkerController>().enabled = true;
     }
 
@@ -20,7 +20,7 @@ public class IntroScenario : MonoBehaviour
     {
         GameObject.Find("Pill - Red").GetComponent<Collider>().enabled = false;
         GameObject.Find("Subtitles Controller").GetComponent<SubtitlesController>().Play(8, 11);
-        yield return new WaitForSeconds(7f);
+        yield return new WaitForSeconds(6f);
         GameObject.Find("Pill - Red").GetComponent<Collider>().enabled = true;
     }
 
@@ -28,7 +28,7 @@ public class IntroScenario : MonoBehaviour
     {
         try { Destroy(GameObject.Find("Pill - Blue")); } catch { }
         GameObject.Find("Subtitles Controller").GetComponent<SubtitlesController>().Play(11, 16);
-        yield return new WaitForSeconds(20f);
+        yield return new WaitForSeconds(19f);
         ApplicationManager.LoadLevel("Tutorial");
     }
 
