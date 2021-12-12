@@ -5,6 +5,7 @@ using UnityEngine;
 public class ApplicationManager : MonoBehaviour
 {
     public static string m_nextSceneName;
+    public static string m_lastSceneName;
 
     #region Singleton activation
     [HideInInspector] public static ApplicationManager instance;
@@ -25,6 +26,7 @@ public class ApplicationManager : MonoBehaviour
     public static void LoadLevel(string levelName)
     {
         m_nextSceneName = levelName;
+        m_lastSceneName = UnityEngine.SceneManagement.SceneManager.GetActiveScene().name;
         UnityEngine.SceneManagement.SceneManager.LoadScene("Loading");
     }
 }

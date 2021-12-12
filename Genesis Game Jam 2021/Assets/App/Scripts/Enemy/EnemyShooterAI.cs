@@ -8,7 +8,7 @@ public class EnemyShooterAI : MonoBehaviour
     public float m_viewRange = 0f;
     public float m_attackRange = 0f;
     public float m_fireRate = 0.5f;
-    public float m_accuracy = 0;
+    public int m_accuracy = 0;
     [Space(5)]
 
     public bool m_canChase = true;
@@ -60,11 +60,17 @@ public class EnemyShooterAI : MonoBehaviour
 
             if (Random.Range(0, m_accuracy) == 0)
             {
+                // Hit is ok
+                try { GameObject.Find("Level Manager").GetComponent<LevelManager>().m_time -= 5; } catch { }
+                try { GameObject.Find("Camera").GetComponent<CameraController>().OnDamageTaken(); } catch { }
+
                 GameObject bullet = Instantiate(m_bullet, m_pistolStart.position, m_pistolStart.rotation);
                 Destroy(bullet, 1f);
             }
             else
             {
+                // Hit is not ok
+
                 GameObject bullet = Instantiate(m_bullet, m_pistolStart.position, Quaternion.Euler(m_pistolStart.rotation.eulerAngles.x, m_pistolStart.rotation.eulerAngles.y + Random.Range(-25f, 25f), m_pistolStart.rotation.eulerAngles.z));
                 Destroy(bullet, 1f);
             }
