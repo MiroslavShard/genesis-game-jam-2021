@@ -24,4 +24,7 @@
 • Soon...
 
 ## Team
-• Soon...
+• [Miroslav Stetsiuk](https://github.com/MiroslavShard)<br>
+• Kirill Demkov<br>
+• Anastasia Teslenko<br>
+• Yaroslav Veremeev
