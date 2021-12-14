@@ -24,9 +24,6 @@ Agent Smith decided to launch a global virus and destroy all video games. You pl
 - [ ] 13. <b>Wonderful new world</b> - All locations are generated procedurally
 - [ ] 14. <b>Time killer</b> - You can buy time in game
 
-## Genesis Game Jam?
-• Soon...
-
 ## Screenshots
 • Soon...
 
@@ -44,6 +41,9 @@ Agent Smith decided to launch a global virus and destroy all video games. You pl
 • Blender 3.0
 
 ## Used assets
+• Soon...
+
+## What is Genesis Game Jam?
 • Soon...
 
 ## Team
