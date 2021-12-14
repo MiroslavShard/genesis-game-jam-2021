@@ -35,7 +35,9 @@ Agent Smith decided to launch a global virus and destroy all video games. You pl
 • <b>Attack:</b> Left Mouse Button
 
 ## Try it now
-• Soon...
+• <s>Optimized build (1.0.0)</s> Soon...<br>
+• <s>Original build (English)</s> Soon...<br>
+• <s>Original build (Russian)</s> Soon...
 
 ## Built with
 • Unity Engine 2020.3.24f1<br>
