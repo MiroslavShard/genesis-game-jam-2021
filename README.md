@@ -41,7 +41,12 @@ Agent Smith decided to launch a global virus and destroy all video games. You pl
 • Blender 3.0
 
 ## Used assets
-• Soon...
+• [Character Movement Fundamentals](https://assetstore.unity.com/packages/tools/physics/character-movement-fundamentals-144966)<br>
+• [Unity NavMesh](https://github.com/Unity-Technologies/NavMeshComponents)<br>
+• [POLYGON Prototype](https://assetstore.unity.com/packages/3d/props/exterior/polygon-prototype-low-poly-3d-art-by-synty-137126)<br>
+• [Realistic Glitches Lite](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/realistic-glitches-lite-107974)<br>
+• [TextMesh Pro](https://docs.unity3d.com/Manual/com.unity.textmeshpro.html)
+
 
 ## What is Genesis Game Jam?
 • Soon...
