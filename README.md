@@ -1,5 +1,5 @@
 # Genesis Game Jam 2.0
-> Save gamedev
+> Save Gamedev
 
 ⚠ <b>Warning!</b> This game was made in less than 48 hours, so the quality of code and product is very poor (but anyway we took <b><i>2nd place</i></b> 🤣).
 
