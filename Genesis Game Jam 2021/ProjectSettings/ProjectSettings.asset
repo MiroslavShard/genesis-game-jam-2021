@@ -680,7 +680,7 @@ PlayerSettings:
   cloudServicesEnabled:
     Analytics: 0
     Build: 0
-    Collab: 1
+    Collab: 0
     Game Performance: 0
     Purchasing: 0
     UDP: 0
@@ -699,11 +699,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 8d92407c-5915-4d84-b49c-1df0338badae
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Genesis Game Jam 2021
-  organizationId: genesis-game-jam-2-0
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   virtualTexturingSupportEnabled: 0
