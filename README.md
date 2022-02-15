@@ -35,9 +35,9 @@ Agent Smith decided to launch a global virus and destroy all video games. You pl
 • <b>Attack:</b> Left Mouse Button
 
 ## Try it now
-• <s>Optimized build (1.0.0)</s> Soon...<br>
-• <s>Original build (English)</s> Soon...<br>
-• <s>Original build (Russian)</s> Soon...
+• Original build: [1.0.0](https://github.com/MiroslavShard/genesis-game-jam-2021/raw/main/Genesis%20Game%20Jam%202021/Save%20Gamedev%20Build.7z)<br>
+
+<i>If you run into any problem, please, create an issue ticket in the [issue tab](https://github.com/MiroslavShard/genesis-game-jam-2021/issues) and I'll try to fix it asap 😊</i>
 
 ## Built with
 • Unity Engine 2020.3.24f1<br>
