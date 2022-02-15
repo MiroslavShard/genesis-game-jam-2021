@@ -25,7 +25,10 @@ Agent Smith decided to launch a global virus and destroy all video games. You pl
 - [ ] 14. <b>Time killer</b> - You can buy time in game
 
 ## Screenshots
-• Soon...
+<img src="https://github.com/MiroslavShard/genesis-game-jam-2021/blob/main/Genesis%20Game%20Jam%202021/Media/Save%20Gamedev%201.png" width="49%" height="49%"> <img src="https://github.com/MiroslavShard/genesis-game-jam-2021/blob/main/Genesis%20Game%20Jam%202021/Media/Save%20Gamedev%202.png" width="49%" height="49%">
+<img src="https://github.com/MiroslavShard/genesis-game-jam-2021/blob/main/Genesis%20Game%20Jam%202021/Media/Save%20Gamedev%203.png" width="49%" height="49%"> <img src="https://github.com/MiroslavShard/genesis-game-jam-2021/blob/main/Genesis%20Game%20Jam%202021/Media/Save%20Gamedev%204.png" width="49%" height="49%">
+<img src="https://github.com/MiroslavShard/genesis-game-jam-2021/blob/main/Genesis%20Game%20Jam%202021/Media/Save%20Gamedev%205.png" width="49%" height="49%"> <img src="https://github.com/MiroslavShard/genesis-game-jam-2021/blob/main/Genesis%20Game%20Jam%202021/Media/Save%20Gamedev%206.png" width="49%" height="49%">
+<img src="https://github.com/MiroslavShard/genesis-game-jam-2021/blob/main/Genesis%20Game%20Jam%202021/Media/Save%20Gamedev%207.png" width="49%" height="49%"> <img src="https://github.com/MiroslavShard/genesis-game-jam-2021/blob/main/Genesis%20Game%20Jam%202021/Media/Save%20Gamedev%208.png" width="49%" height="49%">
 
 ## How to play
 • <b>Movement:</b> WASD or Arrows<br>
